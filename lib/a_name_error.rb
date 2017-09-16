@@ -1,3 +1,2 @@
-hello_world="hello world"
-
+"hello world"
 eval(hello_world)
